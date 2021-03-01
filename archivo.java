@@ -8,4 +8,15 @@ public static void main(String args){
 }
 
 
+public static String tipoComida(opcion){
+ String comida = "";
+ if(opcion == 1){
+   comida = "Comida chatarra";
+ } else{
+   comida = "Comida saludable vaaaa :(" 
+ }
+    
+}
+ 
+
 }
